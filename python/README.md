@@ -14,3 +14,5 @@ This folder contains a series of conda environments designed for specific tasks 
   - Plotly
   - Seaborn
   - Scikit-learn
+  - Statsmodels
+- `machine_learning_cpu.yml`: All of data science notebook plus pytorch using CPU
